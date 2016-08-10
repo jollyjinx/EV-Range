@@ -19,7 +19,7 @@ Was schon drin ist:
 - Luftwiderstand ( abhängig von CW Wert, Geschwindigkeit und Luftemperatur )
 - Rollreibung je nach Reifentyp ( A-F ) und Temperatur
 - Batteriestärke je nach Temperatur ( wobei die Zellen im BMW wohl besser sind als die Werte die ich gefunden habe)
-- Klimaanlage und Sonstige Verraucher in Abhängigkeit von der Temperatur
+- Klimaanlage und Sonstige Verbraucher in Abhängigkeit von der Temperatur
 - Motorwirkungsgrad in Abhängigkeit von der Geschwindigkeit ( rein geschätzt )
 
 Was fehlt:
