@@ -34,4 +34,6 @@ Vielleicht hat ja einer Daten zu den Wirkungsgradfkennfeldern realer Elektroauto
 
 Das original ist das Numbers spreadsheet, das EXCEL und das PDF sind aus dem Numbers Dokument exportiert damit auch Leute auf anderen Platformen damit arbeiten können.
 
+Das Sheet sieht so aus:
 
+<img src="Images/Electric Vehicle Range.png" style="max-width: 50%; display: block; margin-left: auto; margin-right: auto;" /> 
